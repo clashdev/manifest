@@ -23,9 +23,10 @@ export async function writeManifest(manifest: Manifest, name: string) {
     })
     .filter((release) => release.files.length > 0)
   await mkdir(BASE_PATH, { recursive: true })
-  await writeFile(
-    join(BASE_PATH, `${name}.json`),
-    await format(JSON.stringify(manifest), { parser: 'json' }),
-    'utf-8',
-  )
+  const output = JSON.stringify(manifest)
+  const formatted = await format(output, { parser: 'json' })
+  await writeFile(join(BASE_PATH, `${name}.json`), formatted, 'utf-8')
+  if (process.env.CI) {
+    await writeFile(join(BASE_PATH, `${name}.min.json`), output, 'utf-8')
+  }
 }
