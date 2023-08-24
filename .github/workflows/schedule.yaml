@@ -1,0 +1,23 @@
+name: Versions Tracker
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  tracker:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: v19.9.0
+      - run: npm ci
+      - run: npm run versions
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
