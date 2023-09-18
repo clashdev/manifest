@@ -4,212 +4,212 @@
     "version": "Prerelease-Alpha",
     "unstable": true,
     "release_url": "https://github.com/MetaCubeX/Clash.Meta/releases/tag/Prerelease-Alpha",
-    "created_at": "2023-09-16T04:30:11.000Z",
+    "created_at": "2023-09-17T15:39:54.000Z",
     "files": [
       {
-        "name": "clash.meta-android-arm64-alpha-2d3b936.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-android-arm64-alpha-2d3b936.gz"
+        "name": "clash.meta-linux-386-alpha-d5077e0.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-386-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-android-arm64-cgo-alpha-2d3b936.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-android-arm64-cgo-alpha-2d3b936.gz"
+        "name": "clash.meta-linux-armv5-alpha-d5077e0.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv5-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-darwin-amd64-alpha-2d3b936.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-amd64-alpha-2d3b936.gz"
+        "name": "clash.meta-linux-amd64-compatible-alpha-d5077e0.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-compatible-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-darwin-amd64-cgo-alpha-2d3b936.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-amd64-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-alpha-2d3b936.gz",
+        "name": "clash.meta-darwin-arm64-cgo-alpha-d5077e0.gz",
         "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-arm64-alpha-2d3b936.gz"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-arm64-cgo-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-darwin-arm64-cgo-alpha-2d3b936.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-arm64-cgo-alpha-2d3b936.gz"
+        "name": "clash.meta-darwin-amd64-cgo-alpha-d5077e0.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-amd64-cgo-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-freebsd-386-alpha-2d3b936.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-386-alpha-2d3b936.gz"
+        "name": "clash.meta-android-arm64-cgo-alpha-d5077e0.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-android-arm64-cgo-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-freebsd-amd64-alpha-2d3b936.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-amd64-alpha-2d3b936.gz"
+        "name": "clash.meta-linux-amd64-cgo-alpha-d5077e0.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-cgo-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-freebsd-arm64-alpha-2d3b936.gz",
+        "name": "clash.meta-linux-amd64-alpha-d5077e0.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-arm64-alpha-d5077e0.gz",
         "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-arm64-alpha-2d3b936.gz"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-arm64-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-linux-386-alpha-2d3b936.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-386-alpha-2d3b936.gz"
+        "name": "clash.meta-freebsd-amd64-alpha-d5077e0.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-amd64-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-linux-386-cgo-alpha-2d3b936.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-386-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-alpha-2d3b936.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-cgo-alpha-2d3b936.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-compatible-alpha-2d3b936.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-compatible-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-arm64-alpha-2d3b936.gz",
+        "name": "clash.meta-linux-arm64-cgo-alpha-d5077e0.gz",
         "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-arm64-alpha-2d3b936.gz"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-arm64-cgo-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-linux-arm64-cgo-alpha-2d3b936.gz",
+        "name": "clash.meta-linux-386-cgo-alpha-d5077e0.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-386-cgo-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv7-cgo-alpha-d5077e0.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv7-cgo-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-386-alpha-d5077e0.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-386-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-cgo-alpha-d5077e0.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64le-cgo-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-arm64-alpha-d5077e0.gz",
         "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-arm64-cgo-alpha-2d3b936.gz"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-arm64-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-linux-armv5-alpha-2d3b936.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv5-alpha-2d3b936.gz"
+        "name": "clash.meta-darwin-amd64-alpha-d5077e0.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-amd64-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-linux-armv5-cgo-alpha-2d3b936.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv5-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-alpha-2d3b936.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv6-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-cgo-alpha-2d3b936.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv6-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv7-alpha-2d3b936.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv7-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv7-cgo-alpha-2d3b936.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv7-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-cgo-alpha-2d3b936.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-hardfloat-alpha-2d3b936.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-hardfloat-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-softfloat-alpha-2d3b936.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-softfloat-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-alpha-2d3b936.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-cgo-alpha-2d3b936.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-alpha-2d3b936.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64le-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-cgo-alpha-2d3b936.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64le-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-cgo-alpha-2d3b936.gz",
+        "name": "clash.meta-linux-mipsle-cgo-alpha-d5077e0.gz",
         "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-cgo-alpha-2d3b936.gz"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-cgo-alpha-d5077e0.gz"
       },
       {
-        "name": "clash.meta-linux-mipsle-hardfloat-alpha-2d3b936.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-hardfloat-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-softfloat-alpha-2d3b936.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-softfloat-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-alpha-2d3b936.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-riscv64-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-cgo-alpha-2d3b936.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-riscv64-cgo-alpha-2d3b936.gz"
-      },
-      {
-        "name": "clash.meta-windows-386-alpha-2d3b936.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-386-alpha-2d3b936.zip"
-      },
-      {
-        "name": "clash.meta-windows-386-cgo-alpha-2d3b936.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-386-cgo-alpha-2d3b936.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-alpha-2d3b936.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-alpha-2d3b936.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-cgo-alpha-2d3b936.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-cgo-alpha-2d3b936.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-compatible-alpha-2d3b936.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-compatible-alpha-2d3b936.zip"
-      },
-      {
-        "name": "clash.meta-windows-arm32v7-alpha-2d3b936.zip",
+        "name": "clash.meta-windows-arm32v7-alpha-d5077e0.zip",
         "platform": "windows/arm32v7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-arm32v7-alpha-2d3b936.zip"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-arm32v7-alpha-d5077e0.zip"
       },
       {
-        "name": "clash.meta-windows-arm64-alpha-2d3b936.zip",
+        "name": "clash.meta-linux-mips64-cgo-alpha-d5077e0.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64-cgo-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv6-cgo-alpha-d5077e0.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv6-cgo-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-compatible-alpha-d5077e0.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-compatible-alpha-d5077e0.zip"
+      },
+      {
+        "name": "clash.meta-linux-mips-cgo-alpha-d5077e0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-cgo-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-windows-386-cgo-alpha-d5077e0.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-386-cgo-alpha-d5077e0.zip"
+      },
+      {
+        "name": "clash.meta-linux-armv5-cgo-alpha-d5077e0.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv5-cgo-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-hardfloat-alpha-d5077e0.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-hardfloat-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-windows-386-alpha-d5077e0.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-386-alpha-d5077e0.zip"
+      },
+      {
+        "name": "clash.meta-windows-amd64-cgo-alpha-d5077e0.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-cgo-alpha-d5077e0.zip"
+      },
+      {
+        "name": "clash.meta-linux-armv7-alpha-d5077e0.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv7-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-alpha-d5077e0.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-alpha-d5077e0.zip"
+      },
+      {
+        "name": "clash.meta-linux-mips-softfloat-alpha-d5077e0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-softfloat-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-alpha-d5077e0.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64le-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-cgo-alpha-d5077e0.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-riscv64-cgo-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-hardfloat-alpha-d5077e0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-hardfloat-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-alpha-d5077e0.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-riscv64-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-android-arm64-alpha-d5077e0.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-android-arm64-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv6-alpha-d5077e0.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv6-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64-alpha-d5077e0.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-alpha-d5077e0.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-arm64-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-softfloat-alpha-d5077e0.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-softfloat-alpha-d5077e0.gz"
+      },
+      {
+        "name": "clash.meta-windows-arm64-alpha-d5077e0.zip",
         "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-arm64-alpha-2d3b936.zip"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-arm64-alpha-d5077e0.zip"
       }
     ]
   },
@@ -220,49 +220,9 @@
     "created_at": "2023-08-13T15:00:41.000Z",
     "files": [
       {
-        "name": "clash.meta-android-arm64-cgo-v1.15.1.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-android-arm64-cgo-v1.15.1.gz"
-      },
-      {
         "name": "clash.meta-android-arm64-v1.15.1.gz",
         "platform": "android/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-android-arm64-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-cgo-v1.15.1.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-darwin-amd64-cgo-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-v1.15.1.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-darwin-amd64-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-cgo-v1.15.1.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-darwin-arm64-cgo-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-v1.15.1.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-darwin-arm64-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-386-v1.15.1.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-freebsd-386-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-amd64-v1.15.1.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-freebsd-amd64-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-arm64-v1.15.1.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-freebsd-arm64-v1.15.1.gz"
       },
       {
         "name": "clash.meta-linux-386-cgo-v1.15.1.gz",
@@ -270,9 +230,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-386-cgo-v1.15.1.gz"
       },
       {
-        "name": "clash.meta-linux-386-v1.15.1.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-386-v1.15.1.gz"
+        "name": "clash.meta-darwin-arm64-v1.15.1.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-darwin-arm64-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-arm64-v1.15.1.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-freebsd-arm64-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-cgo-v1.15.1.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-darwin-arm64-cgo-v1.15.1.gz"
       },
       {
         "name": "clash.meta-linux-amd64-cgo-v1.15.1.gz",
@@ -280,9 +250,64 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-amd64-cgo-v1.15.1.gz"
       },
       {
+        "name": "clash.meta-freebsd-386-v1.15.1.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-freebsd-386-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-arm64-v1.15.1.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-arm64-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-amd64-v1.15.1.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-freebsd-amd64-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-darwin-amd64-cgo-v1.15.1.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-darwin-amd64-cgo-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-v1.15.1.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-386-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-android-arm64-cgo-v1.15.1.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-android-arm64-cgo-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-hardfloat-v1.15.1.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips-hardfloat-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64-v1.15.1.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips64-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-darwin-amd64-v1.15.1.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-darwin-amd64-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv5-v1.15.1.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv5-v1.15.1.gz"
+      },
+      {
         "name": "clash.meta-linux-amd64-compatible-v1.15.1.gz",
         "platform": "linux/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-amd64-compatible-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-cgo-v1.15.1.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips-cgo-v1.15.1.gz"
       },
       {
         "name": "clash.meta-linux-amd64-v1.15.1.gz",
@@ -295,29 +320,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-arm64-cgo-v1.15.1.gz"
       },
       {
-        "name": "clash.meta-linux-arm64-v1.15.1.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-arm64-v1.15.1.gz"
+        "name": "clash.meta-windows-386-v1.15.1.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-386-v1.15.1.zip"
       },
       {
-        "name": "clash.meta-linux-armv5-cgo-v1.15.1.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv5-cgo-v1.15.1.gz"
+        "name": "clash.meta-linux-riscv64-v1.15.1.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-riscv64-v1.15.1.gz"
       },
       {
-        "name": "clash.meta-linux-armv5-v1.15.1.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv5-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-cgo-v1.15.1.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv6-cgo-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-v1.15.1.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv6-v1.15.1.gz"
+        "name": "clash.meta-linux-mipsle-cgo-v1.15.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mipsle-cgo-v1.15.1.gz"
       },
       {
         "name": "clash.meta-linux-armv7-cgo-v1.15.1.gz",
@@ -325,19 +340,34 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv7-cgo-v1.15.1.gz"
       },
       {
+        "name": "clash.meta-linux-armv6-v1.15.1.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv6-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv6-cgo-v1.15.1.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv6-cgo-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-v1.15.1.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips64le-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-softfloat-v1.15.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mipsle-softfloat-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-compatible-v1.15.1.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-amd64-compatible-v1.15.1.zip"
+      },
+      {
         "name": "clash.meta-linux-armv7-v1.15.1.gz",
         "platform": "linux/armv7",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv7-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-cgo-v1.15.1.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips-cgo-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-hardfloat-v1.15.1.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips-hardfloat-v1.15.1.gz"
       },
       {
         "name": "clash.meta-linux-mips-softfloat-v1.15.1.gz",
@@ -350,71 +380,6 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips64-cgo-v1.15.1.gz"
       },
       {
-        "name": "clash.meta-linux-mips64-v1.15.1.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips64-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-cgo-v1.15.1.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips64le-cgo-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-v1.15.1.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips64le-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-cgo-v1.15.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mipsle-cgo-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-hardfloat-v1.15.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mipsle-hardfloat-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-softfloat-v1.15.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mipsle-softfloat-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-cgo-v1.15.1.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-riscv64-cgo-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-v1.15.1.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-riscv64-v1.15.1.gz"
-      },
-      {
-        "name": "clash.meta-windows-386-cgo-v1.15.1.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-386-cgo-v1.15.1.zip"
-      },
-      {
-        "name": "clash.meta-windows-386-v1.15.1.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-386-v1.15.1.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-cgo-v1.15.1.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-amd64-cgo-v1.15.1.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-compatible-v1.15.1.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-amd64-compatible-v1.15.1.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-v1.15.1.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-amd64-v1.15.1.zip"
-      },
-      {
         "name": "clash.meta-windows-arm32v7-v1.15.1.zip",
         "platform": "windows/arm32v7",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-arm32v7-v1.15.1.zip"
@@ -423,6 +388,41 @@
         "name": "clash.meta-windows-arm64-v1.15.1.zip",
         "platform": "windows/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-arm64-v1.15.1.zip"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-hardfloat-v1.15.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mipsle-hardfloat-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-windows-386-cgo-v1.15.1.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-386-cgo-v1.15.1.zip"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-cgo-v1.15.1.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-riscv64-cgo-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-cgo-v1.15.1.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-mips64le-cgo-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-cgo-v1.15.1.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-amd64-cgo-v1.15.1.zip"
+      },
+      {
+        "name": "clash.meta-linux-armv5-cgo-v1.15.1.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-linux-armv5-cgo-v1.15.1.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-v1.15.1.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.1/clash.meta-windows-amd64-v1.15.1.zip"
       }
     ]
   },
@@ -433,39 +433,9 @@
     "created_at": "2023-06-29T06:25:25.000Z",
     "files": [
       {
-        "name": "clash.meta-android-arm64-cgo-v1.15.0.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-android-arm64-cgo-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-android-arm64-v1.15.0.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-android-arm64-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-cgo-v1.15.0.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-darwin-amd64-cgo-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-v1.15.0.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-darwin-amd64-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-cgo-v1.15.0.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-darwin-arm64-cgo-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-v1.15.0.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-darwin-arm64-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-386-v1.15.0.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-freebsd-386-v1.15.0.gz"
+        "name": "clash.meta-linux-armv6-cgo-v1.15.0.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv6-cgo-v1.15.0.gz"
       },
       {
         "name": "clash.meta-freebsd-amd64-v1.15.0.gz",
@@ -473,24 +443,39 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-freebsd-amd64-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-freebsd-arm64-v1.15.0.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-freebsd-arm64-v1.15.0.gz"
+        "name": "clash.meta-darwin-arm64-v1.15.0.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-darwin-arm64-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-386-cgo-v1.15.0.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-386-cgo-v1.15.0.gz"
+        "name": "clash.meta-darwin-amd64-cgo-v1.15.0.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-darwin-amd64-cgo-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-386-v1.15.0.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-386-v1.15.0.gz"
+        "name": "clash.meta-freebsd-386-v1.15.0.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-freebsd-386-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-amd64-cgo-v1.15.0.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-amd64-cgo-v1.15.0.gz"
+        "name": "clash.meta-linux-armv5-v1.15.0.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv5-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-linux-arm64-cgo-v1.15.0.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-arm64-cgo-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-android-arm64-v1.15.0.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-android-arm64-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-cgo-v1.15.0.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-darwin-arm64-cgo-v1.15.0.gz"
       },
       {
         "name": "clash.meta-linux-amd64-compatible-v1.15.0.gz",
@@ -503,9 +488,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-amd64-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-arm64-cgo-v1.15.0.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-arm64-cgo-v1.15.0.gz"
+        "name": "clash.meta-linux-mips64le-cgo-v1.15.0.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips64le-cgo-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-arm64-v1.15.0.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-freebsd-arm64-v1.15.0.gz"
       },
       {
         "name": "clash.meta-linux-arm64-v1.15.0.gz",
@@ -513,24 +503,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-arm64-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-armv5-cgo-v1.15.0.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv5-cgo-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv5-v1.15.0.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv5-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-cgo-v1.15.0.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv6-cgo-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-v1.15.0.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv6-v1.15.0.gz"
+        "name": "clash.meta-darwin-amd64-v1.15.0.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-darwin-amd64-v1.15.0.gz"
       },
       {
         "name": "clash.meta-linux-armv7-cgo-v1.15.0.gz",
@@ -538,9 +513,24 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv7-cgo-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-armv7-v1.15.0.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv7-v1.15.0.gz"
+        "name": "clash.meta-linux-amd64-cgo-v1.15.0.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-amd64-cgo-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-v1.15.0.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-386-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-v1.15.0.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-riscv64-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-windows-386-v1.15.0.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-386-v1.15.0.zip"
       },
       {
         "name": "clash.meta-linux-mips-cgo-v1.15.0.gz",
@@ -548,9 +538,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips-cgo-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-mips-hardfloat-v1.15.0.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips-hardfloat-v1.15.0.gz"
+        "name": "clash.meta-linux-mips64-cgo-v1.15.0.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips64-cgo-v1.15.0.gz"
       },
       {
         "name": "clash.meta-linux-mips-softfloat-v1.15.0.gz",
@@ -558,9 +548,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips-softfloat-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-mips64-cgo-v1.15.0.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips64-cgo-v1.15.0.gz"
+        "name": "clash.meta-linux-armv5-cgo-v1.15.0.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv5-cgo-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-cgo-v1.15.0.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-386-cgo-v1.15.0.gz"
       },
       {
         "name": "clash.meta-linux-mips64-v1.15.0.gz",
@@ -568,9 +563,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips64-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-mips64le-cgo-v1.15.0.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips64le-cgo-v1.15.0.gz"
+        "name": "clash.meta-linux-armv7-v1.15.0.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv7-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-cgo-v1.15.0.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-riscv64-cgo-v1.15.0.gz"
       },
       {
         "name": "clash.meta-linux-mips64le-v1.15.0.gz",
@@ -583,9 +583,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mipsle-cgo-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-mipsle-hardfloat-v1.15.0.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mipsle-hardfloat-v1.15.0.gz"
+        "name": "clash.meta-linux-armv6-v1.15.0.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-armv6-v1.15.0.gz"
       },
       {
         "name": "clash.meta-linux-mipsle-softfloat-v1.15.0.gz",
@@ -593,14 +593,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mipsle-softfloat-v1.15.0.gz"
       },
       {
-        "name": "clash.meta-linux-riscv64-cgo-v1.15.0.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-riscv64-cgo-v1.15.0.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-v1.15.0.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-riscv64-v1.15.0.gz"
+        "name": "clash.meta-windows-amd64-compatible-v1.15.0.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-amd64-compatible-v1.15.0.zip"
       },
       {
         "name": "clash.meta-windows-386-cgo-v1.15.0.zip",
@@ -608,9 +603,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-386-cgo-v1.15.0.zip"
       },
       {
-        "name": "clash.meta-windows-386-v1.15.0.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-386-v1.15.0.zip"
+        "name": "clash.meta-linux-mipsle-hardfloat-v1.15.0.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mipsle-hardfloat-v1.15.0.gz"
       },
       {
         "name": "clash.meta-windows-amd64-cgo-v1.15.0.zip",
@@ -618,9 +613,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-amd64-cgo-v1.15.0.zip"
       },
       {
-        "name": "clash.meta-windows-amd64-compatible-v1.15.0.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-amd64-compatible-v1.15.0.zip"
+        "name": "clash.meta-android-arm64-cgo-v1.15.0.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-android-arm64-cgo-v1.15.0.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-hardfloat-v1.15.0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-linux-mips-hardfloat-v1.15.0.gz"
       },
       {
         "name": "clash.meta-windows-amd64-v1.15.0.zip",
@@ -628,14 +628,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-amd64-v1.15.0.zip"
       },
       {
-        "name": "clash.meta-windows-arm32v7-v1.15.0.zip",
-        "platform": "windows/arm32v7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-arm32v7-v1.15.0.zip"
-      },
-      {
         "name": "clash.meta-windows-arm64-v1.15.0.zip",
         "platform": "windows/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-arm64-v1.15.0.zip"
+      },
+      {
+        "name": "clash.meta-windows-arm32v7-v1.15.0.zip",
+        "platform": "windows/arm32v7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.15.0/clash.meta-windows-arm32v7-v1.15.0.zip"
       }
     ]
   },
@@ -646,34 +646,9 @@
     "created_at": "2023-06-03T10:02:31.000Z",
     "files": [
       {
-        "name": "clash.meta-android-arm64-cgo-v1.14.5.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-android-arm64-cgo-v1.14.5.gz"
-      },
-      {
         "name": "clash.meta-android-arm64-v1.14.5.gz",
         "platform": "android/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-android-arm64-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-cgo-v1.14.5.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-darwin-amd64-cgo-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-v1.14.5.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-darwin-amd64-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-cgo-v1.14.5.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-darwin-arm64-cgo-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-v1.14.5.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-darwin-arm64-v1.14.5.gz"
       },
       {
         "name": "clash.meta-freebsd-386-v1.14.5.gz",
@@ -681,54 +656,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-freebsd-386-v1.14.5.gz"
       },
       {
-        "name": "clash.meta-freebsd-amd64-v1.14.5.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-freebsd-amd64-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-arm64-v1.14.5.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-freebsd-arm64-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-386-cgo-v1.14.5.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-386-cgo-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-386-v1.14.5.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-386-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-cgo-v1.14.5.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-amd64-cgo-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-compatible-v1.14.5.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-amd64-compatible-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-v1.14.5.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-amd64-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-arm64-cgo-v1.14.5.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-arm64-cgo-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-arm64-v1.14.5.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-arm64-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv5-cgo-v1.14.5.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-armv5-cgo-v1.14.5.gz"
+        "name": "clash.meta-darwin-arm64-cgo-v1.14.5.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-darwin-arm64-cgo-v1.14.5.gz"
       },
       {
         "name": "clash.meta-linux-armv5-v1.14.5.gz",
@@ -736,9 +666,34 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-armv5-v1.14.5.gz"
       },
       {
-        "name": "clash.meta-linux-armv6-cgo-v1.14.5.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-armv6-cgo-v1.14.5.gz"
+        "name": "clash.meta-darwin-arm64-v1.14.5.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-darwin-arm64-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv7-v1.14.5.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-armv7-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-cgo-v1.14.5.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips64le-cgo-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-amd64-v1.14.5.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-freebsd-amd64-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-hardfloat-v1.14.5.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips-hardfloat-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-v1.14.5.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-386-v1.14.5.gz"
       },
       {
         "name": "clash.meta-linux-armv6-v1.14.5.gz",
@@ -751,19 +706,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-armv7-cgo-v1.14.5.gz"
       },
       {
-        "name": "clash.meta-linux-armv7-v1.14.5.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-armv7-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-cgo-v1.14.5.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips-cgo-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-hardfloat-v1.14.5.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips-hardfloat-v1.14.5.gz"
+        "name": "clash.meta-linux-amd64-v1.14.5.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-amd64-v1.14.5.gz"
       },
       {
         "name": "clash.meta-linux-mips-softfloat-v1.14.5.gz",
@@ -771,64 +716,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips-softfloat-v1.14.5.gz"
       },
       {
-        "name": "clash.meta-linux-mips64-cgo-v1.14.5.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips64-cgo-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-v1.14.5.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips64-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-cgo-v1.14.5.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips64le-cgo-v1.14.5.gz"
-      },
-      {
         "name": "clash.meta-linux-mips64le-v1.14.5.gz",
         "platform": "linux/mips64le",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips64le-v1.14.5.gz"
       },
       {
-        "name": "clash.meta-linux-mipsle-cgo-v1.14.5.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mipsle-cgo-v1.14.5.gz"
+        "name": "clash.meta-linux-mips-cgo-v1.14.5.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips-cgo-v1.14.5.gz"
       },
       {
-        "name": "clash.meta-linux-mipsle-hardfloat-v1.14.5.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mipsle-hardfloat-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-softfloat-v1.14.5.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mipsle-softfloat-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-cgo-v1.14.5.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-riscv64-cgo-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-v1.14.5.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-riscv64-v1.14.5.gz"
-      },
-      {
-        "name": "clash.meta-windows-386-cgo-v1.14.5.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-386-cgo-v1.14.5.zip"
-      },
-      {
-        "name": "clash.meta-windows-386-v1.14.5.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-386-v1.14.5.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-cgo-v1.14.5.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-amd64-cgo-v1.14.5.zip"
+        "name": "clash.meta-linux-armv6-cgo-v1.14.5.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-armv6-cgo-v1.14.5.gz"
       },
       {
         "name": "clash.meta-windows-amd64-compatible-v1.14.5.zip",
@@ -836,9 +736,79 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-amd64-compatible-v1.14.5.zip"
       },
       {
-        "name": "clash.meta-windows-amd64-v1.14.5.zip",
+        "name": "clash.meta-windows-386-cgo-v1.14.5.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-386-cgo-v1.14.5.zip"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-softfloat-v1.14.5.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mipsle-softfloat-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-cgo-v1.14.5.zip",
         "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-amd64-v1.14.5.zip"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-amd64-cgo-v1.14.5.zip"
+      },
+      {
+        "name": "clash.meta-linux-arm64-cgo-v1.14.5.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-arm64-cgo-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64-cgo-v1.14.5.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips64-cgo-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-cgo-v1.14.5.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mipsle-cgo-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-cgo-v1.14.5.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-riscv64-cgo-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv5-cgo-v1.14.5.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-armv5-cgo-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-darwin-amd64-v1.14.5.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-darwin-amd64-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-arm64-v1.14.5.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-arm64-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-windows-arm64-v1.14.5.zip",
+        "platform": "windows/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-arm64-v1.14.5.zip"
+      },
+      {
+        "name": "clash.meta-windows-386-v1.14.5.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-386-v1.14.5.zip"
+      },
+      {
+        "name": "clash.meta-freebsd-arm64-v1.14.5.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-freebsd-arm64-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-cgo-v1.14.5.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-386-cgo-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-amd64-cgo-v1.14.5.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-amd64-cgo-v1.14.5.gz"
       },
       {
         "name": "clash.meta-windows-arm32v7-v1.14.5.zip",
@@ -846,9 +816,39 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-arm32v7-v1.14.5.zip"
       },
       {
-        "name": "clash.meta-windows-arm64-v1.14.5.zip",
-        "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-arm64-v1.14.5.zip"
+        "name": "clash.meta-windows-amd64-v1.14.5.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-windows-amd64-v1.14.5.zip"
+      },
+      {
+        "name": "clash.meta-android-arm64-cgo-v1.14.5.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-android-arm64-cgo-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-hardfloat-v1.14.5.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mipsle-hardfloat-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64-v1.14.5.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-mips64-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-amd64-compatible-v1.14.5.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-amd64-compatible-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-v1.14.5.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-linux-riscv64-v1.14.5.gz"
+      },
+      {
+        "name": "clash.meta-darwin-amd64-cgo-v1.14.5.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.5/clash.meta-darwin-amd64-cgo-v1.14.5.gz"
       }
     ]
   },
@@ -859,44 +859,39 @@
     "created_at": "2023-04-28T17:10:55.000Z",
     "files": [
       {
+        "name": "clash.meta-linux-mips64le-cgo-v1.14.4.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips64le-cgo-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-windows-386-cgo-v1.14.4.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-386-cgo-v1.14.4.zip"
+      },
+      {
+        "name": "clash.meta-linux-mips-hardfloat-v1.14.4.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips-hardfloat-v1.14.4.gz"
+      },
+      {
         "name": "clash.meta-android-arm64-cgo-v1.14.4.gz",
         "platform": "android/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-android-arm64-cgo-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-android-arm64-v1.14.4.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-android-arm64-v1.14.4.gz"
+        "name": "clash.meta-linux-mips64-cgo-v1.14.4.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips64-cgo-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-darwin-amd64-cgo-v1.14.4.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-darwin-amd64-cgo-v1.14.4.gz"
+        "name": "clash.meta-linux-amd64-compatible-v1.14.4.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-amd64-compatible-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-darwin-amd64-v1.14.4.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-darwin-amd64-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-cgo-v1.14.4.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-darwin-arm64-cgo-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-v1.14.4.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-darwin-arm64-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-386-v1.14.4.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-freebsd-386-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-amd64-v1.14.4.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-freebsd-amd64-v1.14.4.gz"
+        "name": "clash.meta-linux-armv5-cgo-v1.14.4.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv5-cgo-v1.14.4.gz"
       },
       {
         "name": "clash.meta-freebsd-arm64-v1.14.4.gz",
@@ -909,19 +904,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-386-cgo-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-linux-386-v1.14.4.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-386-v1.14.4.gz"
+        "name": "clash.meta-linux-riscv64-v1.14.4.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-riscv64-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-linux-amd64-cgo-v1.14.4.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-amd64-cgo-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-compatible-v1.14.4.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-amd64-compatible-v1.14.4.gz"
+        "name": "clash.meta-darwin-amd64-cgo-v1.14.4.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-darwin-amd64-cgo-v1.14.4.gz"
       },
       {
         "name": "clash.meta-linux-amd64-v1.14.4.gz",
@@ -929,19 +919,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-amd64-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-linux-arm64-cgo-v1.14.4.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-arm64-cgo-v1.14.4.gz"
+        "name": "clash.meta-windows-arm32v7-v1.14.4.zip",
+        "platform": "windows/arm32v7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-arm32v7-v1.14.4.zip"
       },
       {
-        "name": "clash.meta-linux-arm64-v1.14.4.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-arm64-v1.14.4.gz"
+        "name": "clash.meta-darwin-amd64-v1.14.4.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-darwin-amd64-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-linux-armv5-cgo-v1.14.4.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv5-cgo-v1.14.4.gz"
+        "name": "clash.meta-freebsd-amd64-v1.14.4.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-freebsd-amd64-v1.14.4.gz"
       },
       {
         "name": "clash.meta-linux-armv5-v1.14.4.gz",
@@ -949,24 +939,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv5-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-linux-armv6-cgo-v1.14.4.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv6-cgo-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-v1.14.4.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv6-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv7-cgo-v1.14.4.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv7-cgo-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv7-v1.14.4.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv7-v1.14.4.gz"
+        "name": "clash.meta-freebsd-386-v1.14.4.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-freebsd-386-v1.14.4.gz"
       },
       {
         "name": "clash.meta-linux-mips-cgo-v1.14.4.gz",
@@ -974,79 +949,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips-cgo-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-linux-mips-hardfloat-v1.14.4.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips-hardfloat-v1.14.4.gz"
+        "name": "clash.meta-linux-arm64-cgo-v1.14.4.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-arm64-cgo-v1.14.4.gz"
       },
       {
-        "name": "clash.meta-linux-mips-softfloat-v1.14.4.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips-softfloat-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-cgo-v1.14.4.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips64-cgo-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-v1.14.4.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips64-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-cgo-v1.14.4.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips64le-cgo-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-v1.14.4.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips64le-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-cgo-v1.14.4.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mipsle-cgo-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-hardfloat-v1.14.4.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mipsle-hardfloat-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-softfloat-v1.14.4.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mipsle-softfloat-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-cgo-v1.14.4.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-riscv64-cgo-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-v1.14.4.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-riscv64-v1.14.4.gz"
-      },
-      {
-        "name": "clash.meta-windows-386-cgo-v1.14.4.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-386-cgo-v1.14.4.zip"
-      },
-      {
-        "name": "clash.meta-windows-386-v1.14.4.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-386-v1.14.4.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-cgo-v1.14.4.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-amd64-cgo-v1.14.4.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-compatible-v1.14.4.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-amd64-compatible-v1.14.4.zip"
+        "name": "clash.meta-linux-armv7-v1.14.4.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv7-v1.14.4.gz"
       },
       {
         "name": "clash.meta-windows-amd64-v1.14.4.zip",
@@ -1054,14 +964,104 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-amd64-v1.14.4.zip"
       },
       {
-        "name": "clash.meta-windows-arm32v7-v1.14.4.zip",
-        "platform": "windows/arm32v7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-arm32v7-v1.14.4.zip"
+        "name": "clash.meta-linux-armv6-v1.14.4.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv6-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64-v1.14.4.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips64-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-cgo-v1.14.4.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-riscv64-cgo-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv6-cgo-v1.14.4.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv6-cgo-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-hardfloat-v1.14.4.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mipsle-hardfloat-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-amd64-cgo-v1.14.4.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-amd64-cgo-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-android-arm64-v1.14.4.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-android-arm64-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-softfloat-v1.14.4.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips-softfloat-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-v1.14.4.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-386-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-v1.14.4.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mips64le-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-arm64-v1.14.4.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-arm64-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-cgo-v1.14.4.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-darwin-arm64-cgo-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-softfloat-v1.14.4.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mipsle-softfloat-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-cgo-v1.14.4.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-mipsle-cgo-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv7-cgo-v1.14.4.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-linux-armv7-cgo-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-compatible-v1.14.4.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-amd64-compatible-v1.14.4.zip"
       },
       {
         "name": "clash.meta-windows-arm64-v1.14.4.zip",
         "platform": "windows/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-arm64-v1.14.4.zip"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-v1.14.4.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-darwin-arm64-v1.14.4.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-cgo-v1.14.4.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-amd64-cgo-v1.14.4.zip"
+      },
+      {
+        "name": "clash.meta-windows-386-v1.14.4.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.4/clash.meta-windows-386-v1.14.4.zip"
       }
     ]
   },
@@ -1072,19 +1072,19 @@
     "created_at": "2023-03-30T16:04:09.000Z",
     "files": [
       {
-        "name": "clash.meta-android-arm64-cgo-v1.14.3.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-android-arm64-cgo-v1.14.3.gz"
+        "name": "clash.meta-darwin-amd64-cgo-v1.14.3.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-darwin-amd64-cgo-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-v1.14.3.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-darwin-arm64-v1.14.3.gz"
       },
       {
         "name": "clash.meta-android-arm64-v1.14.3.gz",
         "platform": "android/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-android-arm64-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-cgo-v1.14.3.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-darwin-amd64-cgo-v1.14.3.gz"
       },
       {
         "name": "clash.meta-darwin-amd64-v1.14.3.gz",
@@ -1097,14 +1097,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-darwin-arm64-cgo-v1.14.3.gz"
       },
       {
-        "name": "clash.meta-darwin-arm64-v1.14.3.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-darwin-arm64-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-386-v1.14.3.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-freebsd-386-v1.14.3.gz"
+        "name": "clash.meta-android-arm64-cgo-v1.14.3.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-android-arm64-cgo-v1.14.3.gz"
       },
       {
         "name": "clash.meta-freebsd-amd64-v1.14.3.gz",
@@ -1112,24 +1107,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-freebsd-amd64-v1.14.3.gz"
       },
       {
-        "name": "clash.meta-freebsd-arm64-v1.14.3.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-freebsd-arm64-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-386-cgo-v1.14.3.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-386-cgo-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-386-v1.14.3.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-386-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-cgo-v1.14.3.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-amd64-cgo-v1.14.3.gz"
+        "name": "clash.meta-freebsd-386-v1.14.3.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-freebsd-386-v1.14.3.gz"
       },
       {
         "name": "clash.meta-linux-amd64-compatible-v1.14.3.gz",
@@ -1137,54 +1117,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-amd64-compatible-v1.14.3.gz"
       },
       {
-        "name": "clash.meta-linux-amd64-v1.14.3.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-amd64-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-arm64-cgo-v1.14.3.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-arm64-cgo-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-arm64-v1.14.3.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-arm64-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv5-cgo-v1.14.3.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv5-cgo-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv5-v1.14.3.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv5-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-cgo-v1.14.3.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv6-cgo-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-v1.14.3.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv6-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv7-cgo-v1.14.3.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv7-cgo-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv7-v1.14.3.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv7-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-cgo-v1.14.3.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips-cgo-v1.14.3.gz"
+        "name": "clash.meta-linux-386-cgo-v1.14.3.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-386-cgo-v1.14.3.gz"
       },
       {
         "name": "clash.meta-linux-mips-hardfloat-v1.14.3.gz",
@@ -1192,29 +1127,54 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips-hardfloat-v1.14.3.gz"
       },
       {
+        "name": "clash.meta-linux-arm64-cgo-v1.14.3.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-arm64-cgo-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv5-v1.14.3.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv5-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-cgo-v1.14.3.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips-cgo-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv6-v1.14.3.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv6-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-arm64-v1.14.3.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-arm64-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-amd64-v1.14.3.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-amd64-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-amd64-cgo-v1.14.3.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-amd64-cgo-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-arm64-v1.14.3.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-freebsd-arm64-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-v1.14.3.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-386-v1.14.3.gz"
+      },
+      {
         "name": "clash.meta-linux-mips-softfloat-v1.14.3.gz",
         "platform": "linux/mips",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips-softfloat-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-cgo-v1.14.3.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips64-cgo-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-v1.14.3.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips64-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-cgo-v1.14.3.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips64le-cgo-v1.14.3.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-v1.14.3.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips64le-v1.14.3.gz"
       },
       {
         "name": "clash.meta-linux-mipsle-cgo-v1.14.3.gz",
@@ -1222,14 +1182,44 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mipsle-cgo-v1.14.3.gz"
       },
       {
-        "name": "clash.meta-linux-mipsle-hardfloat-v1.14.3.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mipsle-hardfloat-v1.14.3.gz"
+        "name": "clash.meta-linux-mips64-cgo-v1.14.3.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips64-cgo-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv7-cgo-v1.14.3.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv7-cgo-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv6-cgo-v1.14.3.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv6-cgo-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-v1.14.3.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips64le-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv7-v1.14.3.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv7-v1.14.3.gz"
       },
       {
         "name": "clash.meta-linux-mipsle-softfloat-v1.14.3.gz",
         "platform": "linux/mipsle",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mipsle-softfloat-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv5-cgo-v1.14.3.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-armv5-cgo-v1.14.3.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64-v1.14.3.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips64-v1.14.3.gz"
       },
       {
         "name": "clash.meta-linux-riscv64-cgo-v1.14.3.gz",
@@ -1252,9 +1242,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-windows-386-v1.14.3.zip"
       },
       {
+        "name": "clash.meta-linux-mipsle-hardfloat-v1.14.3.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mipsle-hardfloat-v1.14.3.gz"
+      },
+      {
         "name": "clash.meta-windows-amd64-cgo-v1.14.3.zip",
         "platform": "windows/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-windows-amd64-cgo-v1.14.3.zip"
+      },
+      {
+        "name": "clash.meta-windows-arm64-v1.14.3.zip",
+        "platform": "windows/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-windows-arm64-v1.14.3.zip"
       },
       {
         "name": "clash.meta-windows-amd64-compatible-v1.14.3.zip",
@@ -1262,19 +1262,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-windows-amd64-compatible-v1.14.3.zip"
       },
       {
-        "name": "clash.meta-windows-amd64-v1.14.3.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-windows-amd64-v1.14.3.zip"
-      },
-      {
         "name": "clash.meta-windows-arm32v7-v1.14.3.zip",
         "platform": "windows/arm32v7",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-windows-arm32v7-v1.14.3.zip"
       },
       {
-        "name": "clash.meta-windows-arm64-v1.14.3.zip",
-        "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-windows-arm64-v1.14.3.zip"
+        "name": "clash.meta-windows-amd64-v1.14.3.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-windows-amd64-v1.14.3.zip"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-cgo-v1.14.3.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.3/clash.meta-linux-mips64le-cgo-v1.14.3.gz"
       }
     ]
   },
@@ -1285,44 +1285,9 @@
     "created_at": "2023-02-18T17:25:34.000Z",
     "files": [
       {
-        "name": "clash.meta-android-arm64-cgo-v1.14.2.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-android-arm64-cgo-v1.14.2.gz"
-      },
-      {
         "name": "clash.meta-android-arm64-v1.14.2.gz",
         "platform": "android/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-android-arm64-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-cgo-v1.14.2.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-darwin-amd64-cgo-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-v1.14.2.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-darwin-amd64-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-cgo-v1.14.2.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-darwin-arm64-cgo-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-v1.14.2.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-darwin-arm64-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-386-v1.14.2.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-freebsd-386-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-amd64-v1.14.2.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-freebsd-amd64-v1.14.2.gz"
       },
       {
         "name": "clash.meta-freebsd-arm64-v1.14.2.gz",
@@ -1330,9 +1295,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-freebsd-arm64-v1.14.2.gz"
       },
       {
-        "name": "clash.meta-linux-386-cgo-v1.14.2.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-386-cgo-v1.14.2.gz"
+        "name": "clash.meta-darwin-amd64-v1.14.2.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-darwin-amd64-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-darwin-amd64-cgo-v1.14.2.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-darwin-amd64-cgo-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-386-v1.14.2.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-freebsd-386-v1.14.2.gz"
       },
       {
         "name": "clash.meta-linux-amd64-cgo-v1.14.2.gz",
@@ -1340,9 +1315,24 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-amd64-cgo-v1.14.2.gz"
       },
       {
+        "name": "clash.meta-freebsd-amd64-v1.14.2.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-freebsd-amd64-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-cgo-v1.14.2.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-386-cgo-v1.14.2.gz"
+      },
+      {
         "name": "clash.meta-linux-amd64-compatible-v1.14.2.gz",
         "platform": "linux/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-amd64-compatible-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-v1.14.2.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-darwin-arm64-v1.14.2.gz"
       },
       {
         "name": "clash.meta-linux-amd64-v1.14.2.gz",
@@ -1350,19 +1340,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-amd64-v1.14.2.gz"
       },
       {
-        "name": "clash.meta-linux-arm-5-cgo-v1.14.2.gz",
-        "platform": "linux/arm",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-arm-5-cgo-v1.14.2.gz"
-      },
-      {
         "name": "clash.meta-linux-arm-6-cgo-v1.14.2.gz",
         "platform": "linux/arm",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-arm-6-cgo-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-linux-arm-7-cgo-v1.14.2.gz",
-        "platform": "linux/arm",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-arm-7-cgo-v1.14.2.gz"
       },
       {
         "name": "clash.meta-linux-arm64-cgo-v1.14.2.gz",
@@ -1375,9 +1355,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-arm64-v1.14.2.gz"
       },
       {
-        "name": "clash.meta-linux-armv5-v1.14.2.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-armv5-v1.14.2.gz"
+        "name": "clash.meta-linux-arm-5-cgo-v1.14.2.gz",
+        "platform": "linux/arm",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-arm-5-cgo-v1.14.2.gz"
       },
       {
         "name": "clash.meta-linux-armv6-v1.14.2.gz",
@@ -1385,24 +1365,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-armv6-v1.14.2.gz"
       },
       {
-        "name": "clash.meta-linux-armv7-v1.14.2.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-armv7-v1.14.2.gz"
+        "name": "clash.meta-linux-arm-7-cgo-v1.14.2.gz",
+        "platform": "linux/arm",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-arm-7-cgo-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv5-v1.14.2.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-armv5-v1.14.2.gz"
       },
       {
         "name": "clash.meta-linux-mips-cgo-v1.14.2.gz",
         "platform": "linux/mips",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips-cgo-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-hardfloat-v1.14.2.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips-hardfloat-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-softfloat-v1.14.2.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips-softfloat-v1.14.2.gz"
       },
       {
         "name": "clash.meta-linux-mips64-cgo-v1.14.2.gz",
@@ -1415,19 +1390,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips64-v1.14.2.gz"
       },
       {
-        "name": "clash.meta-linux-mips64le-cgo-v1.14.2.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips64le-cgo-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-v1.14.2.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips64le-v1.14.2.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-cgo-v1.14.2.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mipsle-cgo-v1.14.2.gz"
+        "name": "clash.meta-linux-mips-softfloat-v1.14.2.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips-softfloat-v1.14.2.gz"
       },
       {
         "name": "clash.meta-linux-mipsle-hardfloat-v1.14.2.gz",
@@ -1435,9 +1400,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mipsle-hardfloat-v1.14.2.gz"
       },
       {
-        "name": "clash.meta-linux-mipsle-softfloat-v1.14.2.gz",
+        "name": "clash.meta-linux-mips64le-v1.14.2.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips64le-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv7-v1.14.2.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-armv7-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-cgo-v1.14.2.gz",
         "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mipsle-softfloat-v1.14.2.gz"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mipsle-cgo-v1.14.2.gz"
       },
       {
         "name": "clash.meta-linux-riscv64-cgo-v1.14.2.gz",
@@ -1445,9 +1420,54 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-riscv64-cgo-v1.14.2.gz"
       },
       {
+        "name": "clash.meta-linux-mips64le-cgo-v1.14.2.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips64le-cgo-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-hardfloat-v1.14.2.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mips-hardfloat-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-cgo-v1.14.2.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-darwin-arm64-cgo-v1.14.2.gz"
+      },
+      {
         "name": "clash.meta-windows-386-cgo-v1.14.2.zip",
         "platform": "windows/386",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-386-cgo-v1.14.2.zip"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-softfloat-v1.14.2.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-linux-mipsle-softfloat-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-windows-arm32v7-v1.14.2.zip",
+        "platform": "windows/arm32v7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-arm32v7-v1.14.2.zip"
+      },
+      {
+        "name": "clash.meta-android-arm64-cgo-v1.14.2.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-android-arm64-cgo-v1.14.2.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-v1.14.2.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-amd64-v1.14.2.zip"
+      },
+      {
+        "name": "clash.meta-windows-arm64-v1.14.2.zip",
+        "platform": "windows/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-arm64-v1.14.2.zip"
+      },
+      {
+        "name": "clash.meta-windows-amd64-compatible-v1.14.2.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-amd64-compatible-v1.14.2.zip"
       },
       {
         "name": "clash.meta-windows-386-v1.14.2.zip",
@@ -1458,26 +1478,6 @@
         "name": "clash.meta-windows-amd64-cgo-v1.14.2.zip",
         "platform": "windows/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-amd64-cgo-v1.14.2.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-compatible-v1.14.2.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-amd64-compatible-v1.14.2.zip"
-      },
-      {
-        "name": "clash.meta-windows-amd64-v1.14.2.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-amd64-v1.14.2.zip"
-      },
-      {
-        "name": "clash.meta-windows-arm32v7-v1.14.2.zip",
-        "platform": "windows/arm32v7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-arm32v7-v1.14.2.zip"
-      },
-      {
-        "name": "clash.meta-windows-arm64-v1.14.2.zip",
-        "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.2/clash.meta-windows-arm64-v1.14.2.zip"
       }
     ]
   },
@@ -1493,29 +1493,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-android-arm64-v1.14.1.gz"
       },
       {
-        "name": "clash.meta-darwin-amd64-v1.14.1.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-darwin-amd64-v1.14.1.gz"
-      },
-      {
         "name": "clash.meta-darwin-arm64-v1.14.1.gz",
         "platform": "darwin/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-darwin-arm64-v1.14.1.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-386-v1.14.1.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-freebsd-386-v1.14.1.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-amd64-v1.14.1.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-freebsd-amd64-v1.14.1.gz"
-      },
-      {
-        "name": "clash.meta-freebsd-arm64-v1.14.1.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-freebsd-arm64-v1.14.1.gz"
       },
       {
         "name": "clash.meta-linux-amd64-compatible-v1.14.1.gz",
@@ -1523,14 +1503,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-amd64-compatible-v1.14.1.gz"
       },
       {
-        "name": "clash.meta-linux-amd64-v1.14.1.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-amd64-v1.14.1.gz"
+        "name": "clash.meta-linux-armv7-v1.14.1.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-armv7-v1.14.1.gz"
       },
       {
         "name": "clash.meta-linux-arm64-v1.14.1.gz",
         "platform": "linux/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-arm64-v1.14.1.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-amd64-v1.14.1.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-freebsd-amd64-v1.14.1.gz"
       },
       {
         "name": "clash.meta-linux-armv5-v1.14.1.gz",
@@ -1543,19 +1528,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-armv6-v1.14.1.gz"
       },
       {
-        "name": "clash.meta-linux-armv7-v1.14.1.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-armv7-v1.14.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-hardfloat-v1.14.1.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mips-hardfloat-v1.14.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-softfloat-v1.14.1.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mips-softfloat-v1.14.1.gz"
+        "name": "clash.meta-linux-mips64le-v1.14.1.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mips64le-v1.14.1.gz"
       },
       {
         "name": "clash.meta-linux-mips64-v1.14.1.gz",
@@ -1563,19 +1538,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mips64-v1.14.1.gz"
       },
       {
-        "name": "clash.meta-linux-mips64le-v1.14.1.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mips64le-v1.14.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-hardfloat-v1.14.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mipsle-hardfloat-v1.14.1.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-softfloat-v1.14.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mipsle-softfloat-v1.14.1.gz"
+        "name": "clash.meta-linux-mips-softfloat-v1.14.1.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mips-softfloat-v1.14.1.gz"
       },
       {
         "name": "clash.meta-windows-386-v1.14.1.zip",
@@ -1583,9 +1548,24 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-windows-386-v1.14.1.zip"
       },
       {
-        "name": "clash.meta-windows-amd64-compatible-v1.14.1.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-windows-amd64-compatible-v1.14.1.zip"
+        "name": "clash.meta-linux-mipsle-hardfloat-v1.14.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mipsle-hardfloat-v1.14.1.gz"
+      },
+      {
+        "name": "clash.meta-windows-arm64-v1.14.1.zip",
+        "platform": "windows/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-windows-arm64-v1.14.1.zip"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-softfloat-v1.14.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mipsle-softfloat-v1.14.1.gz"
+      },
+      {
+        "name": "clash.meta-darwin-amd64-v1.14.1.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-darwin-amd64-v1.14.1.gz"
       },
       {
         "name": "clash.meta-windows-amd64-v1.14.1.zip",
@@ -1593,14 +1573,34 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-windows-amd64-v1.14.1.zip"
       },
       {
+        "name": "clash.meta-linux-amd64-v1.14.1.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-amd64-v1.14.1.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-hardfloat-v1.14.1.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-linux-mips-hardfloat-v1.14.1.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-386-v1.14.1.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-freebsd-386-v1.14.1.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-compatible-v1.14.1.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-windows-amd64-compatible-v1.14.1.zip"
+      },
+      {
+        "name": "clash.meta-freebsd-arm64-v1.14.1.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-freebsd-arm64-v1.14.1.gz"
+      },
+      {
         "name": "clash.meta-windows-arm32v7-v1.14.1.zip",
         "platform": "windows/arm32v7",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-windows-arm32v7-v1.14.1.zip"
-      },
-      {
-        "name": "clash.meta-windows-arm64-v1.14.1.zip",
-        "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.1/clash.meta-windows-arm64-v1.14.1.zip"
       }
     ]
   },
@@ -1611,14 +1611,14 @@
     "created_at": "2023-01-01T11:41:36.000Z",
     "files": [
       {
-        "name": "Clash.Meta-android-arm64-v1.14.0.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-android-arm64-v1.14.0.gz"
-      },
-      {
         "name": "Clash.Meta-darwin-amd64-v1.14.0.gz",
         "platform": "darwin/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-darwin-amd64-v1.14.0.gz"
+      },
+      {
+        "name": "Clash.Meta-android-arm64-v1.14.0.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-android-arm64-v1.14.0.gz"
       },
       {
         "name": "Clash.Meta-darwin-arm64-v1.14.0.gz",
@@ -1626,9 +1626,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-darwin-arm64-v1.14.0.gz"
       },
       {
-        "name": "Clash.Meta-freebsd-386-v1.14.0.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-freebsd-386-v1.14.0.gz"
+        "name": "Clash.Meta-freebsd-arm64-v1.14.0.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-freebsd-arm64-v1.14.0.gz"
       },
       {
         "name": "Clash.Meta-freebsd-amd64-v1.14.0.gz",
@@ -1636,9 +1636,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-freebsd-amd64-v1.14.0.gz"
       },
       {
-        "name": "Clash.Meta-freebsd-arm64-v1.14.0.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-freebsd-arm64-v1.14.0.gz"
+        "name": "Clash.Meta-freebsd-386-v1.14.0.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-freebsd-386-v1.14.0.gz"
       },
       {
         "name": "Clash.Meta-linux-amd64-compatible-v1.14.0.gz",
@@ -1656,11 +1656,6 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-arm64-v1.14.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-armv5-v1.14.0.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-armv5-v1.14.0.gz"
-      },
-      {
         "name": "Clash.Meta-linux-armv6-v1.14.0.gz",
         "platform": "linux/armv6",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-armv6-v1.14.0.gz"
@@ -1669,6 +1664,16 @@
         "name": "Clash.Meta-linux-armv7-v1.14.0.gz",
         "platform": "linux/armv7",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-armv7-v1.14.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-armv5-v1.14.0.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-armv5-v1.14.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips64le-v1.14.0.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-mips64le-v1.14.0.gz"
       },
       {
         "name": "Clash.Meta-linux-mips-hardfloat-v1.14.0.gz",
@@ -1686,9 +1691,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-mips64-v1.14.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64le-v1.14.0.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-mips64le-v1.14.0.gz"
+        "name": "Clash.Meta-windows-386-v1.14.0.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-windows-386-v1.14.0.zip"
+      },
+      {
+        "name": "Clash.Meta-windows-amd64-compatible-v1.14.0.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-windows-amd64-compatible-v1.14.0.zip"
       },
       {
         "name": "Clash.Meta-linux-mipsle-hardfloat-v1.14.0.gz",
@@ -1701,24 +1711,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-linux-mipsle-softfloat-v1.14.0.gz"
       },
       {
-        "name": "Clash.Meta-windows-386-v1.14.0.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-windows-386-v1.14.0.zip"
-      },
-      {
-        "name": "Clash.Meta-windows-amd64-compatible-v1.14.0.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-windows-amd64-compatible-v1.14.0.zip"
+        "name": "Clash.Meta-windows-arm32v7-v1.14.0.zip",
+        "platform": "windows/arm32v7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-windows-arm32v7-v1.14.0.zip"
       },
       {
         "name": "Clash.Meta-windows-amd64-v1.14.0.zip",
         "platform": "windows/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-windows-amd64-v1.14.0.zip"
-      },
-      {
-        "name": "Clash.Meta-windows-arm32v7-v1.14.0.zip",
-        "platform": "windows/arm32v7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.14.0/Clash.Meta-windows-arm32v7-v1.14.0.zip"
       },
       {
         "name": "Clash.Meta-windows-arm64-v1.14.0.zip",
@@ -1734,19 +1734,9 @@
     "created_at": "2022-11-02T10:08:22.000Z",
     "files": [
       {
-        "name": "Clash.Meta-android-arm64-v1.13.2.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-android-arm64-v1.13.2.gz"
-      },
-      {
         "name": "Clash.Meta-darwin-amd64-v1.13.2.gz",
         "platform": "darwin/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-darwin-amd64-v1.13.2.gz"
-      },
-      {
-        "name": "Clash.Meta-darwin-arm64-v1.13.2.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-darwin-arm64-v1.13.2.gz"
       },
       {
         "name": "Clash.Meta-freebsd-386-v1.13.2.gz",
@@ -1754,29 +1744,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-freebsd-386-v1.13.2.gz"
       },
       {
-        "name": "Clash.Meta-freebsd-amd64-v1.13.2.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-freebsd-amd64-v1.13.2.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-arm64-v1.13.2.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-freebsd-arm64-v1.13.2.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-amd64-compatible-v1.13.2.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-amd64-compatible-v1.13.2.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-amd64-v1.13.2.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-amd64-v1.13.2.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-arm64-v1.13.2.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-arm64-v1.13.2.gz"
+        "name": "Clash.Meta-android-arm64-v1.13.2.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-android-arm64-v1.13.2.gz"
       },
       {
         "name": "Clash.Meta-linux-armv5-v1.13.2.gz",
@@ -1784,44 +1754,39 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-armv5-v1.13.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-armv6-v1.13.2.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-armv6-v1.13.2.gz"
-      },
-      {
         "name": "Clash.Meta-linux-armv7-v1.13.2.gz",
         "platform": "linux/armv7",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-armv7-v1.13.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-hardfloat-v1.13.2.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mips-hardfloat-v1.13.2.gz"
+        "name": "Clash.Meta-freebsd-arm64-v1.13.2.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-freebsd-arm64-v1.13.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-softfloat-v1.13.2.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mips-softfloat-v1.13.2.gz"
+        "name": "Clash.Meta-linux-armv6-v1.13.2.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-armv6-v1.13.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64-v1.13.2.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mips64-v1.13.2.gz"
+        "name": "Clash.Meta-linux-amd64-v1.13.2.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-amd64-v1.13.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64le-v1.13.2.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mips64le-v1.13.2.gz"
+        "name": "Clash.Meta-freebsd-amd64-v1.13.2.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-freebsd-amd64-v1.13.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mipsle-hardfloat-v1.13.2.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mipsle-hardfloat-v1.13.2.gz"
+        "name": "Clash.Meta-darwin-arm64-v1.13.2.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-darwin-arm64-v1.13.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mipsle-softfloat-v1.13.2.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mipsle-softfloat-v1.13.2.gz"
+        "name": "Clash.Meta-linux-arm64-v1.13.2.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-arm64-v1.13.2.gz"
       },
       {
         "name": "Clash.Meta-windows-386-v1.13.2.zip",
@@ -1829,24 +1794,59 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-windows-386-v1.13.2.zip"
       },
       {
-        "name": "Clash.Meta-windows-amd64-compatible-v1.13.2.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-windows-amd64-compatible-v1.13.2.zip"
-      },
-      {
         "name": "Clash.Meta-windows-amd64-v1.13.2.zip",
         "platform": "windows/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-windows-amd64-v1.13.2.zip"
       },
       {
-        "name": "Clash.Meta-windows-arm32v7-v1.13.2.zip",
-        "platform": "windows/arm32v7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-windows-arm32v7-v1.13.2.zip"
+        "name": "Clash.Meta-linux-mipsle-softfloat-v1.13.2.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mipsle-softfloat-v1.13.2.gz"
       },
       {
         "name": "Clash.Meta-windows-arm64-v1.13.2.zip",
         "platform": "windows/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-windows-arm64-v1.13.2.zip"
+      },
+      {
+        "name": "Clash.Meta-linux-mips-hardfloat-v1.13.2.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mips-hardfloat-v1.13.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-amd64-compatible-v1.13.2.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-amd64-compatible-v1.13.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips-softfloat-v1.13.2.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mips-softfloat-v1.13.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mipsle-hardfloat-v1.13.2.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mipsle-hardfloat-v1.13.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips64le-v1.13.2.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mips64le-v1.13.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips64-v1.13.2.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-linux-mips64-v1.13.2.gz"
+      },
+      {
+        "name": "Clash.Meta-windows-amd64-compatible-v1.13.2.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-windows-amd64-compatible-v1.13.2.zip"
+      },
+      {
+        "name": "Clash.Meta-windows-arm32v7-v1.13.2.zip",
+        "platform": "windows/arm32v7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.2/Clash.Meta-windows-arm32v7-v1.13.2.zip"
       }
     ]
   },
@@ -1856,6 +1856,21 @@
     "release_url": "https://github.com/MetaCubeX/Clash.Meta/releases/tag/v1.13.1",
     "created_at": "2022-08-29T05:08:29.000Z",
     "files": [
+      {
+        "name": "Clash.Meta-linux-armv5-v1.13.1.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-armv5-v1.13.1.gz"
+      },
+      {
+        "name": "Clash.Meta-darwin-arm64-v1.13.1.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-darwin-arm64-v1.13.1.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-armv7-v1.13.1.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-armv7-v1.13.1.gz"
+      },
       {
         "name": "Clash.Meta-android-arm64-v1.13.1.gz",
         "platform": "android/arm64",
@@ -1867,14 +1882,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-darwin-amd64-v1.13.1.gz"
       },
       {
-        "name": "Clash.Meta-darwin-arm64-v1.13.1.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-darwin-arm64-v1.13.1.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-386-v1.13.1.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-freebsd-386-v1.13.1.gz"
+        "name": "Clash.Meta-linux-amd64-v1.13.1.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-amd64-v1.13.1.gz"
       },
       {
         "name": "Clash.Meta-freebsd-amd64-v1.13.1.gz",
@@ -1887,34 +1897,39 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-freebsd-arm64-v1.13.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-amd64-compatible-v1.13.1.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-amd64-compatible-v1.13.1.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-amd64-v1.13.1.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-amd64-v1.13.1.gz"
-      },
-      {
         "name": "Clash.Meta-linux-arm64-v1.13.1.gz",
         "platform": "linux/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-arm64-v1.13.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-armv5-v1.13.1.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-armv5-v1.13.1.gz"
+        "name": "Clash.Meta-freebsd-386-v1.13.1.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-freebsd-386-v1.13.1.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-amd64-compatible-v1.13.1.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-amd64-compatible-v1.13.1.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mipsle-softfloat-v1.13.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-mipsle-softfloat-v1.13.1.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mipsle-hardfloat-v1.13.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-mipsle-hardfloat-v1.13.1.gz"
+      },
+      {
+        "name": "Clash.Meta-windows-386-v1.13.1.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-windows-386-v1.13.1.zip"
       },
       {
         "name": "Clash.Meta-linux-armv6-v1.13.1.gz",
         "platform": "linux/armv6",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-armv6-v1.13.1.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-armv7-v1.13.1.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-armv7-v1.13.1.gz"
       },
       {
         "name": "Clash.Meta-linux-mips-hardfloat-v1.13.1.gz",
@@ -1937,31 +1952,6 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-mips64le-v1.13.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-mipsle-hardfloat-v1.13.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-mipsle-hardfloat-v1.13.1.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-mipsle-softfloat-v1.13.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-linux-mipsle-softfloat-v1.13.1.gz"
-      },
-      {
-        "name": "Clash.Meta-windows-386-v1.13.1.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-windows-386-v1.13.1.zip"
-      },
-      {
-        "name": "Clash.Meta-windows-amd64-compatible-v1.13.1.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-windows-amd64-compatible-v1.13.1.zip"
-      },
-      {
-        "name": "Clash.Meta-windows-amd64-v1.13.1.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-windows-amd64-v1.13.1.zip"
-      },
-      {
         "name": "Clash.Meta-windows-arm32v7-v1.13.1.zip",
         "platform": "windows/arm32v7",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-windows-arm32v7-v1.13.1.zip"
@@ -1970,6 +1960,16 @@
         "name": "Clash.Meta-windows-arm64-v1.13.1.zip",
         "platform": "windows/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-windows-arm64-v1.13.1.zip"
+      },
+      {
+        "name": "Clash.Meta-windows-amd64-v1.13.1.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-windows-amd64-v1.13.1.zip"
+      },
+      {
+        "name": "Clash.Meta-windows-amd64-compatible-v1.13.1.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.13.1/Clash.Meta-windows-amd64-compatible-v1.13.1.zip"
       }
     ]
   },
@@ -1980,59 +1980,9 @@
     "created_at": "2022-07-02T02:41:41.000Z",
     "files": [
       {
-        "name": "Clash.Meta-android-arm64-v1.12.0.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-android-arm64-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-darwin-amd64-v1.12.0.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-darwin-amd64-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-darwin-arm64-v1.12.0.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-darwin-arm64-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-386-v1.12.0.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-freebsd-386-v1.12.0.gz"
-      },
-      {
         "name": "Clash.Meta-freebsd-amd64-v1.12.0.gz",
         "platform": "freebsd/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-freebsd-amd64-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-arm64-v1.12.0.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-freebsd-arm64-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-amd64-compatible-v1.12.0.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-amd64-compatible-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-amd64-v1.12.0.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-amd64-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-arm64-v1.12.0.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-arm64-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-armv5-v1.12.0.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-armv5-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-armv6-v1.12.0.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-armv6-v1.12.0.gz"
       },
       {
         "name": "Clash.Meta-linux-armv7-v1.12.0.gz",
@@ -2040,14 +1990,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-armv7-v1.12.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-hardfloat-v1.12.0.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mips-hardfloat-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-mips-softfloat-v1.12.0.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mips-softfloat-v1.12.0.gz"
+        "name": "Clash.Meta-freebsd-386-v1.12.0.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-freebsd-386-v1.12.0.gz"
       },
       {
         "name": "Clash.Meta-linux-mips64-v1.12.0.gz",
@@ -2055,19 +2000,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mips64-v1.12.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64le-v1.12.0.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mips64le-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-mipsle-hardfloat-v1.12.0.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mipsle-hardfloat-v1.12.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-mipsle-softfloat-v1.12.0.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mipsle-softfloat-v1.12.0.gz"
+        "name": "Clash.Meta-android-arm64-v1.12.0.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-android-arm64-v1.12.0.gz"
       },
       {
         "name": "Clash.Meta-windows-386-v1.12.0.zip",
@@ -2075,14 +2010,44 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-windows-386-v1.12.0.zip"
       },
       {
+        "name": "Clash.Meta-darwin-amd64-v1.12.0.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-darwin-amd64-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-armv6-v1.12.0.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-armv6-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-windows-arm64-v1.12.0.zip",
+        "platform": "windows/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-windows-arm64-v1.12.0.zip"
+      },
+      {
+        "name": "Clash.Meta-linux-amd64-compatible-v1.12.0.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-amd64-compatible-v1.12.0.gz"
+      },
+      {
         "name": "Clash.Meta-windows-amd64-compatible-v1.12.0.zip",
         "platform": "windows/amd64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-windows-amd64-compatible-v1.12.0.zip"
       },
       {
-        "name": "Clash.Meta-windows-amd64-v1.12.0.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-windows-amd64-v1.12.0.zip"
+        "name": "Clash.Meta-linux-mips-hardfloat-v1.12.0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mips-hardfloat-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mipsle-hardfloat-v1.12.0.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mipsle-hardfloat-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips64le-v1.12.0.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mips64le-v1.12.0.gz"
       },
       {
         "name": "Clash.Meta-windows-arm32v7-v1.12.0.zip",
@@ -2090,9 +2055,44 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-windows-arm32v7-v1.12.0.zip"
       },
       {
-        "name": "Clash.Meta-windows-arm64-v1.12.0.zip",
-        "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-windows-arm64-v1.12.0.zip"
+        "name": "Clash.Meta-windows-amd64-v1.12.0.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-windows-amd64-v1.12.0.zip"
+      },
+      {
+        "name": "Clash.Meta-linux-mipsle-softfloat-v1.12.0.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mipsle-softfloat-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-arm64-v1.12.0.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-arm64-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-amd64-v1.12.0.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-amd64-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-armv5-v1.12.0.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-armv5-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-freebsd-arm64-v1.12.0.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-freebsd-arm64-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-darwin-arm64-v1.12.0.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-darwin-arm64-v1.12.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips-softfloat-v1.12.0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.12.0/Clash.Meta-linux-mips-softfloat-v1.12.0.gz"
       }
     ]
   },
@@ -2103,29 +2103,9 @@
     "created_at": "2022-06-11T10:51:26.000Z",
     "files": [
       {
-        "name": "Clash.Meta-android-arm64-v1.11.2.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-android-arm64-v1.11.2.gz"
-      },
-      {
-        "name": "Clash.Meta-darwin-amd64-v1.11.2.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-darwin-amd64-v1.11.2.gz"
-      },
-      {
         "name": "Clash.Meta-darwin-arm64-v1.11.2.gz",
         "platform": "darwin/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-darwin-arm64-v1.11.2.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-386-v1.11.2.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-freebsd-386-v1.11.2.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-amd64-v1.11.2.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-freebsd-amd64-v1.11.2.gz"
       },
       {
         "name": "Clash.Meta-freebsd-arm64-v1.11.2.gz",
@@ -2133,9 +2113,29 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-freebsd-arm64-v1.11.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-amd64-compatible-v1.11.2.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-amd64-compatible-v1.11.2.gz"
+        "name": "Clash.Meta-android-arm64-v1.11.2.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-android-arm64-v1.11.2.gz"
+      },
+      {
+        "name": "Clash.Meta-freebsd-amd64-v1.11.2.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-freebsd-amd64-v1.11.2.gz"
+      },
+      {
+        "name": "Clash.Meta-darwin-amd64-v1.11.2.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-darwin-amd64-v1.11.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-armv7-v1.11.2.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-armv7-v1.11.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-armv6-v1.11.2.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-armv6-v1.11.2.gz"
       },
       {
         "name": "Clash.Meta-linux-amd64-v1.11.2.gz",
@@ -2148,39 +2148,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-arm64-v1.11.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-armv5-v1.11.2.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-armv5-v1.11.2.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-armv6-v1.11.2.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-armv6-v1.11.2.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-armv7-v1.11.2.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-armv7-v1.11.2.gz"
-      },
-      {
         "name": "Clash.Meta-linux-mips-hardfloat-v1.11.2.gz",
         "platform": "linux/mips",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mips-hardfloat-v1.11.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-softfloat-v1.11.2.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mips-softfloat-v1.11.2.gz"
+        "name": "Clash.Meta-linux-amd64-compatible-v1.11.2.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-amd64-compatible-v1.11.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64-v1.11.2.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mips64-v1.11.2.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-mips64le-v1.11.2.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mips64le-v1.11.2.gz"
+        "name": "Clash.Meta-linux-armv5-v1.11.2.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-armv5-v1.11.2.gz"
       },
       {
         "name": "Clash.Meta-linux-mipsle-hardfloat-v1.11.2.gz",
@@ -2188,14 +2168,29 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mipsle-hardfloat-v1.11.2.gz"
       },
       {
-        "name": "Clash.Meta-linux-mipsle-softfloat-v1.11.2.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mipsle-softfloat-v1.11.2.gz"
+        "name": "Clash.Meta-freebsd-386-v1.11.2.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-freebsd-386-v1.11.2.gz"
       },
       {
-        "name": "Clash.Meta-windows-386-v1.11.2.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-windows-386-v1.11.2.zip"
+        "name": "Clash.Meta-linux-mips64le-v1.11.2.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mips64le-v1.11.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips64-v1.11.2.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mips64-v1.11.2.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips-softfloat-v1.11.2.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mips-softfloat-v1.11.2.gz"
+      },
+      {
+        "name": "Clash.Meta-windows-arm64-v1.11.2.zip",
+        "platform": "windows/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-windows-arm64-v1.11.2.zip"
       },
       {
         "name": "Clash.Meta-windows-amd64-compatible-v1.11.2.zip",
@@ -2203,19 +2198,24 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-windows-amd64-compatible-v1.11.2.zip"
       },
       {
-        "name": "Clash.Meta-windows-amd64-v1.11.2.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-windows-amd64-v1.11.2.zip"
-      },
-      {
         "name": "Clash.Meta-windows-arm32v7-v1.11.2.zip",
         "platform": "windows/arm32v7",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-windows-arm32v7-v1.11.2.zip"
       },
       {
-        "name": "Clash.Meta-windows-arm64-v1.11.2.zip",
-        "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-windows-arm64-v1.11.2.zip"
+        "name": "Clash.Meta-windows-386-v1.11.2.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-windows-386-v1.11.2.zip"
+      },
+      {
+        "name": "Clash.Meta-windows-amd64-v1.11.2.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-windows-amd64-v1.11.2.zip"
+      },
+      {
+        "name": "Clash.Meta-linux-mipsle-softfloat-v1.11.2.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.2/Clash.Meta-linux-mipsle-softfloat-v1.11.2.gz"
       }
     ]
   },
@@ -2231,34 +2231,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-android-arm64-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-darwin-amd64v1-v1.11.1.gz",
-        "platform": "darwin/amd64v1",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-darwin-amd64v1-v1.11.1.gz"
-      },
-      {
-        "name": "Clash.Meta-darwin-amd64v2-v1.11.1.gz",
-        "platform": "darwin/amd64v2",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-darwin-amd64v2-v1.11.1.gz"
-      },
-      {
-        "name": "Clash.Meta-darwin-amd64v3-v1.11.1.gz",
-        "platform": "darwin/amd64v3",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-darwin-amd64v3-v1.11.1.gz"
-      },
-      {
-        "name": "Clash.Meta-darwin-arm64-v1.11.1.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-darwin-arm64-v1.11.1.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-386-v1.11.1.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-freebsd-386-v1.11.1.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-amd64-v1.11.1.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-freebsd-amd64-v1.11.1.gz"
+        "name": "Clash.Meta-linux-amd64v1-v1.11.1.gz",
+        "platform": "linux/amd64v1",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-amd64v1-v1.11.1.gz"
       },
       {
         "name": "Clash.Meta-freebsd-arm64-v1.11.1.gz",
@@ -2266,9 +2241,34 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-freebsd-arm64-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-amd64v1-v1.11.1.gz",
-        "platform": "linux/amd64v1",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-amd64v1-v1.11.1.gz"
+        "name": "Clash.Meta-linux-arm64-v1.11.1.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-arm64-v1.11.1.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips-softfloat-v1.11.1.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mips-softfloat-v1.11.1.gz"
+      },
+      {
+        "name": "Clash.Meta-darwin-amd64v2-v1.11.1.gz",
+        "platform": "darwin/amd64v2",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-darwin-amd64v2-v1.11.1.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mipsle-hardfloat-v1.11.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mipsle-hardfloat-v1.11.1.gz"
+      },
+      {
+        "name": "Clash.Meta-darwin-amd64v1-v1.11.1.gz",
+        "platform": "darwin/amd64v1",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-darwin-amd64v1-v1.11.1.gz"
+      },
+      {
+        "name": "Clash.Meta-freebsd-amd64-v1.11.1.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-freebsd-amd64-v1.11.1.gz"
       },
       {
         "name": "Clash.Meta-linux-amd64v2-v1.11.1.gz",
@@ -2276,14 +2276,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-amd64v2-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-amd64v3-v1.11.1.gz",
-        "platform": "linux/amd64v3",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-amd64v3-v1.11.1.gz"
+        "name": "Clash.Meta-linux-mips64le-v1.11.1.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mips64le-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-arm64-v1.11.1.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-arm64-v1.11.1.gz"
+        "name": "Clash.Meta-windows-amd64v2-v1.11.1.zip",
+        "platform": "windows/amd64v2",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-amd64v2-v1.11.1.zip"
+      },
+      {
+        "name": "Clash.Meta-windows-386-v1.11.1.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-386-v1.11.1.zip"
       },
       {
         "name": "Clash.Meta-linux-armv5-v1.11.1.gz",
@@ -2296,9 +2301,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-armv6-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-armv7-v1.11.1.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-armv7-v1.11.1.gz"
+        "name": "Clash.Meta-freebsd-386-v1.11.1.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-freebsd-386-v1.11.1.gz"
+      },
+      {
+        "name": "Clash.Meta-windows-arm32v7-v1.11.1.zip",
+        "platform": "windows/arm32v7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-arm32v7-v1.11.1.zip"
       },
       {
         "name": "Clash.Meta-linux-mips-hardfloat-v1.11.1.gz",
@@ -2306,9 +2316,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mips-hardfloat-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-softfloat-v1.11.1.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mips-softfloat-v1.11.1.gz"
+        "name": "Clash.Meta-linux-armv7-v1.11.1.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-armv7-v1.11.1.gz"
       },
       {
         "name": "Clash.Meta-linux-mips64-v1.11.1.gz",
@@ -2316,34 +2326,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mips64-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64le-v1.11.1.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mips64le-v1.11.1.gz"
+        "name": "Clash.Meta-darwin-amd64v3-v1.11.1.gz",
+        "platform": "darwin/amd64v3",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-darwin-amd64v3-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-mipsle-hardfloat-v1.11.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mipsle-hardfloat-v1.11.1.gz"
+        "name": "Clash.Meta-darwin-arm64-v1.11.1.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-darwin-arm64-v1.11.1.gz"
       },
       {
-        "name": "Clash.Meta-linux-mipsle-softfloat-v1.11.1.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mipsle-softfloat-v1.11.1.gz"
-      },
-      {
-        "name": "Clash.Meta-windows-386-v1.11.1.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-386-v1.11.1.zip"
-      },
-      {
-        "name": "Clash.Meta-windows-amd64v1-v1.11.1.zip",
-        "platform": "windows/amd64v1",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-amd64v1-v1.11.1.zip"
-      },
-      {
-        "name": "Clash.Meta-windows-amd64v2-v1.11.1.zip",
-        "platform": "windows/amd64v2",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-amd64v2-v1.11.1.zip"
+        "name": "Clash.Meta-linux-amd64v3-v1.11.1.gz",
+        "platform": "linux/amd64v3",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-amd64v3-v1.11.1.gz"
       },
       {
         "name": "Clash.Meta-windows-amd64v3-v1.11.1.zip",
@@ -2351,9 +2346,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-amd64v3-v1.11.1.zip"
       },
       {
-        "name": "Clash.Meta-windows-arm32v7-v1.11.1.zip",
-        "platform": "windows/arm32v7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-arm32v7-v1.11.1.zip"
+        "name": "Clash.Meta-linux-mipsle-softfloat-v1.11.1.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-linux-mipsle-softfloat-v1.11.1.gz"
+      },
+      {
+        "name": "Clash.Meta-windows-amd64v1-v1.11.1.zip",
+        "platform": "windows/amd64v1",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.1/Clash.Meta-windows-amd64v1-v1.11.1.zip"
       },
       {
         "name": "Clash.Meta-windows-arm64-v1.11.1.zip",
@@ -2369,9 +2369,24 @@
     "created_at": "2022-05-14T15:45:10.000Z",
     "files": [
       {
+        "name": "Clash.Meta-freebsd-arm64-v1.11.0.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-freebsd-arm64-v1.11.0.gz"
+      },
+      {
+        "name": "Clash.Meta-freebsd-386-v1.11.0.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-freebsd-386-v1.11.0.gz"
+      },
+      {
         "name": "Clash.Meta-android-arm64-v1.11.0.gz",
         "platform": "android/arm64",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-android-arm64-v1.11.0.gz"
+      },
+      {
+        "name": "Clash.Meta-darwin-arm64-v1.11.0.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-darwin-arm64-v1.11.0.gz"
       },
       {
         "name": "Clash.Meta-darwin-amd64v1-v1.11.0.gz",
@@ -2389,24 +2404,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-darwin-amd64v3-v1.11.0.gz"
       },
       {
-        "name": "Clash.Meta-darwin-arm64-v1.11.0.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-darwin-arm64-v1.11.0.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-386-v1.11.0.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-freebsd-386-v1.11.0.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-amd64-v1.11.0.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-freebsd-amd64-v1.11.0.gz"
-      },
-      {
-        "name": "Clash.Meta-freebsd-arm64-v1.11.0.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-freebsd-arm64-v1.11.0.gz"
+        "name": "Clash.Meta-linux-amd64v2-v1.11.0.gz",
+        "platform": "linux/amd64v2",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-amd64v2-v1.11.0.gz"
       },
       {
         "name": "Clash.Meta-linux-amd64v1-v1.11.0.gz",
@@ -2414,24 +2414,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-amd64v1-v1.11.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-amd64v2-v1.11.0.gz",
-        "platform": "linux/amd64v2",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-amd64v2-v1.11.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-amd64v3-v1.11.0.gz",
-        "platform": "linux/amd64v3",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-amd64v3-v1.11.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-arm64-v1.11.0.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-arm64-v1.11.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-armv5-v1.11.0.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-armv5-v1.11.0.gz"
+        "name": "Clash.Meta-linux-armv7-v1.11.0.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-armv7-v1.11.0.gz"
       },
       {
         "name": "Clash.Meta-linux-armv6-v1.11.0.gz",
@@ -2439,19 +2424,19 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-armv6-v1.11.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-armv7-v1.11.0.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-armv7-v1.11.0.gz"
+        "name": "Clash.Meta-linux-arm64-v1.11.0.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-arm64-v1.11.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-hardfloat-v1.11.0.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mips-hardfloat-v1.11.0.gz"
+        "name": "Clash.Meta-freebsd-amd64-v1.11.0.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-freebsd-amd64-v1.11.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-softfloat-v1.11.0.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mips-softfloat-v1.11.0.gz"
+        "name": "Clash.Meta-linux-amd64v3-v1.11.0.gz",
+        "platform": "linux/amd64v3",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-amd64v3-v1.11.0.gz"
       },
       {
         "name": "Clash.Meta-linux-mips64-v1.11.0.gz",
@@ -2459,9 +2444,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mips64-v1.11.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64le-v1.11.0.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mips64le-v1.11.0.gz"
+        "name": "Clash.Meta-linux-mips-hardfloat-v1.11.0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mips-hardfloat-v1.11.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-armv5-v1.11.0.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-armv5-v1.11.0.gz"
       },
       {
         "name": "Clash.Meta-linux-mipsle-hardfloat-v1.11.0.gz",
@@ -2469,14 +2459,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mipsle-hardfloat-v1.11.0.gz"
       },
       {
+        "name": "Clash.Meta-linux-mips64le-v1.11.0.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mips64le-v1.11.0.gz"
+      },
+      {
         "name": "Clash.Meta-linux-mipsle-softfloat-v1.11.0.gz",
         "platform": "linux/mipsle",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mipsle-softfloat-v1.11.0.gz"
-      },
-      {
-        "name": "Clash.Meta-windows-386-v1.11.0.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-windows-386-v1.11.0.zip"
       },
       {
         "name": "Clash.Meta-windows-amd64v1-v1.11.0.zip",
@@ -2489,9 +2479,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-windows-amd64v2-v1.11.0.zip"
       },
       {
-        "name": "Clash.Meta-windows-amd64v3-v1.11.0.zip",
-        "platform": "windows/amd64v3",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-windows-amd64v3-v1.11.0.zip"
+        "name": "Clash.Meta-linux-mips-softfloat-v1.11.0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-linux-mips-softfloat-v1.11.0.gz"
+      },
+      {
+        "name": "Clash.Meta-windows-arm64-v1.11.0.zip",
+        "platform": "windows/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-windows-arm64-v1.11.0.zip"
       },
       {
         "name": "Clash.Meta-windows-arm32v7-v1.11.0.zip",
@@ -2499,9 +2494,14 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-windows-arm32v7-v1.11.0.zip"
       },
       {
-        "name": "Clash.Meta-windows-arm64-v1.11.0.zip",
-        "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-windows-arm64-v1.11.0.zip"
+        "name": "Clash.Meta-windows-amd64v3-v1.11.0.zip",
+        "platform": "windows/amd64v3",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-windows-amd64v3-v1.11.0.zip"
+      },
+      {
+        "name": "Clash.Meta-windows-386-v1.11.0.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.11.0/Clash.Meta-windows-386-v1.11.0.zip"
       }
     ]
   },
@@ -2587,14 +2587,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-armv7-v1.10.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-hardfloat-v1.10.0.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-mips-hardfloat-v1.10.0.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-mips-softfloat-v1.10.0.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-mips-softfloat-v1.10.0.gz"
+        "name": "Clash.Meta-linux-mips64le-v1.10.0.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-mips64le-v1.10.0.gz"
       },
       {
         "name": "Clash.Meta-linux-mips64-v1.10.0.gz",
@@ -2602,9 +2597,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-mips64-v1.10.0.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64le-v1.10.0.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-mips64le-v1.10.0.gz"
+        "name": "Clash.Meta-linux-mips-hardfloat-v1.10.0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-mips-hardfloat-v1.10.0.gz"
       },
       {
         "name": "Clash.Meta-linux-mipsle-hardfloat-v1.10.0.gz",
@@ -2615,6 +2610,11 @@
         "name": "Clash.Meta-linux-mipsle-softfloat-v1.10.0.gz",
         "platform": "linux/mipsle",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-mipsle-softfloat-v1.10.0.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips-softfloat-v1.10.0.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-linux-mips-softfloat-v1.10.0.gz"
       },
       {
         "name": "Clash.Meta-windows-386-v1.10.0.zip",
@@ -2705,14 +2705,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-armv8-v1.9.0-8-g89609cc.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips-hardfloat-v1.9.0-8-g89609cc.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-mips-hardfloat-v1.9.0-8-g89609cc.gz"
-      },
-      {
-        "name": "Clash.Meta-linux-mips-softfloat-v1.9.0-8-g89609cc.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-mips-softfloat-v1.9.0-8-g89609cc.gz"
+        "name": "Clash.Meta-linux-mips64le-v1.9.0-8-g89609cc.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-mips64le-v1.9.0-8-g89609cc.gz"
       },
       {
         "name": "Clash.Meta-linux-mips64-v1.9.0-8-g89609cc.gz",
@@ -2720,9 +2715,9 @@
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-mips64-v1.9.0-8-g89609cc.gz"
       },
       {
-        "name": "Clash.Meta-linux-mips64le-v1.9.0-8-g89609cc.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-mips64le-v1.9.0-8-g89609cc.gz"
+        "name": "Clash.Meta-linux-mips-hardfloat-v1.9.0-8-g89609cc.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-mips-hardfloat-v1.9.0-8-g89609cc.gz"
       },
       {
         "name": "Clash.Meta-linux-mipsle-hardfloat-v1.9.0-8-g89609cc.gz",
@@ -2733,6 +2728,11 @@
         "name": "Clash.Meta-linux-mipsle-softfloat-v1.9.0-8-g89609cc.gz",
         "platform": "linux/mipsle",
         "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-mipsle-softfloat-v1.9.0-8-g89609cc.gz"
+      },
+      {
+        "name": "Clash.Meta-linux-mips-softfloat-v1.9.0-8-g89609cc.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.9.0/Clash.Meta-linux-mips-softfloat-v1.9.0-8-g89609cc.gz"
       },
       {
         "name": "Clash.Meta-windows-386-v1.9.0-8-g89609cc.zip",
