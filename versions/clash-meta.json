@@ -4,212 +4,212 @@
     "version": "Prerelease-Alpha",
     "unstable": true,
     "release_url": "https://github.com/MetaCubeX/Clash.Meta/releases/tag/Prerelease-Alpha",
-    "created_at": "2023-09-18T11:42:08.000Z",
+    "created_at": "2023-09-19T19:27:17.000Z",
     "files": [
       {
-        "name": "clash.meta-freebsd-amd64-alpha-20fafdc.gz",
-        "platform": "freebsd/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-amd64-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-arm64-alpha-20fafdc.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-arm64-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-alpha-20fafdc.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-386-alpha-20fafdc.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-386-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-compatible-alpha-20fafdc.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-compatible-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-hardfloat-alpha-20fafdc.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-hardfloat-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-android-arm64-alpha-20fafdc.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-android-arm64-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-amd64-cgo-alpha-20fafdc.gz",
-        "platform": "linux/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-386-cgo-alpha-20fafdc.gz",
-        "platform": "linux/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-386-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-cgo-alpha-20fafdc.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64le-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-cgo-alpha-20fafdc.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-alpha-20fafdc.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv6-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-windows-amd64-compatible-alpha-20fafdc.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-compatible-alpha-20fafdc.zip"
-      },
-      {
-        "name": "clash.meta-freebsd-arm64-alpha-20fafdc.gz",
-        "platform": "freebsd/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-arm64-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-hardfloat-alpha-20fafdc.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-hardfloat-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-cgo-alpha-20fafdc.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-amd64-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64le-alpha-20fafdc.gz",
-        "platform": "linux/mips64le",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64le-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-arm64-cgo-alpha-20fafdc.gz",
-        "platform": "linux/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-arm64-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv6-cgo-alpha-20fafdc.gz",
-        "platform": "linux/armv6",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv6-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-android-arm64-cgo-alpha-20fafdc.gz",
-        "platform": "android/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-android-arm64-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-alpha-20fafdc.gz",
+        "name": "clash.meta-darwin-arm64-cgo-alpha-12643d2.gz",
         "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-arm64-alpha-20fafdc.gz"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-arm64-cgo-alpha-12643d2.gz"
       },
       {
-        "name": "clash.meta-linux-riscv64-alpha-20fafdc.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-riscv64-alpha-20fafdc.gz"
+        "name": "clash.meta-linux-armv6-cgo-alpha-12643d2.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv6-cgo-alpha-12643d2.gz"
       },
       {
-        "name": "clash.meta-linux-armv5-cgo-alpha-20fafdc.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv5-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-cgo-alpha-20fafdc.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-windows-386-cgo-alpha-20fafdc.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-386-cgo-alpha-20fafdc.zip"
-      },
-      {
-        "name": "clash.meta-linux-riscv64-cgo-alpha-20fafdc.gz",
-        "platform": "linux/riscv64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-riscv64-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv7-cgo-alpha-20fafdc.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv7-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-windows-386-alpha-20fafdc.zip",
-        "platform": "windows/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-386-alpha-20fafdc.zip"
-      },
-      {
-        "name": "clash.meta-linux-armv5-alpha-20fafdc.gz",
-        "platform": "linux/armv5",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv5-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-armv7-alpha-20fafdc.gz",
-        "platform": "linux/armv7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv7-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips-softfloat-alpha-20fafdc.gz",
+        "name": "clash.meta-linux-mips-softfloat-alpha-12643d2.gz",
         "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-softfloat-alpha-20fafdc.gz"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-softfloat-alpha-12643d2.gz"
       },
       {
-        "name": "clash.meta-freebsd-386-alpha-20fafdc.gz",
-        "platform": "freebsd/386",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-386-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mipsle-softfloat-alpha-20fafdc.gz",
-        "platform": "linux/mipsle",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-softfloat-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-linux-mips64-alpha-20fafdc.gz",
-        "platform": "linux/mips64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-darwin-arm64-cgo-alpha-20fafdc.gz",
-        "platform": "darwin/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-arm64-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-windows-amd64-alpha-20fafdc.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-alpha-20fafdc.zip"
-      },
-      {
-        "name": "clash.meta-linux-mips-cgo-alpha-20fafdc.gz",
-        "platform": "linux/mips",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-cgo-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-darwin-amd64-alpha-20fafdc.gz",
-        "platform": "darwin/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-amd64-alpha-20fafdc.gz"
-      },
-      {
-        "name": "clash.meta-windows-amd64-cgo-alpha-20fafdc.zip",
-        "platform": "windows/amd64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-cgo-alpha-20fafdc.zip"
-      },
-      {
-        "name": "clash.meta-windows-arm64-alpha-20fafdc.zip",
+        "name": "clash.meta-windows-arm64-alpha-12643d2.zip",
         "platform": "windows/arm64",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-arm64-alpha-20fafdc.zip"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-arm64-alpha-12643d2.zip"
       },
       {
-        "name": "clash.meta-windows-arm32v7-alpha-20fafdc.zip",
+        "name": "clash.meta-android-arm64-cgo-alpha-12643d2.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-android-arm64-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-darwin-amd64-alpha-12643d2.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-amd64-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-hardfloat-alpha-12643d2.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-hardfloat-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-cgo-alpha-12643d2.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-386-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv5-alpha-12643d2.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv5-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-arm64-alpha-12643d2.gz",
+        "platform": "freebsd/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-arm64-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-android-arm64-alpha-12643d2.gz",
+        "platform": "android/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-android-arm64-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-amd64-alpha-12643d2.gz",
+        "platform": "freebsd/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-amd64-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-cgo-alpha-12643d2.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv7-cgo-alpha-12643d2.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv7-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64-alpha-12643d2.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv7-alpha-12643d2.gz",
+        "platform": "linux/armv7",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv7-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-386-alpha-12643d2.gz",
+        "platform": "linux/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-386-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips-hardfloat-alpha-12643d2.gz",
+        "platform": "linux/mips",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips-hardfloat-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-darwin-amd64-cgo-alpha-12643d2.gz",
+        "platform": "darwin/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-amd64-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-cgo-alpha-12643d2.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-amd64-cgo-alpha-12643d2.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64-cgo-alpha-12643d2.gz",
+        "platform": "linux/mips64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-darwin-arm64-alpha-12643d2.gz",
+        "platform": "darwin/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-darwin-arm64-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-arm64-cgo-alpha-12643d2.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-arm64-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-alpha-12643d2.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64le-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-windows-amd64-alpha-12643d2.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-alpha-12643d2.zip"
+      },
+      {
+        "name": "clash.meta-linux-armv5-cgo-alpha-12643d2.gz",
+        "platform": "linux/armv5",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv5-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-mips64le-cgo-alpha-12643d2.gz",
+        "platform": "linux/mips64le",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mips64le-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-alpha-12643d2.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-riscv64-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-windows-arm32v7-alpha-12643d2.zip",
         "platform": "windows/arm32v7",
-        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-arm32v7-alpha-20fafdc.zip"
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-arm32v7-alpha-12643d2.zip"
+      },
+      {
+        "name": "clash.meta-windows-386-alpha-12643d2.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-386-alpha-12643d2.zip"
+      },
+      {
+        "name": "clash.meta-windows-amd64-compatible-alpha-12643d2.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-compatible-alpha-12643d2.zip"
+      },
+      {
+        "name": "clash.meta-linux-mipsle-softfloat-alpha-12643d2.gz",
+        "platform": "linux/mipsle",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-mipsle-softfloat-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-amd64-compatible-alpha-12643d2.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-compatible-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-armv6-alpha-12643d2.gz",
+        "platform": "linux/armv6",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-armv6-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-freebsd-386-alpha-12643d2.gz",
+        "platform": "freebsd/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-freebsd-386-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-amd64-alpha-12643d2.gz",
+        "platform": "linux/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-amd64-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-linux-riscv64-cgo-alpha-12643d2.gz",
+        "platform": "linux/riscv64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-riscv64-cgo-alpha-12643d2.gz"
+      },
+      {
+        "name": "clash.meta-windows-386-cgo-alpha-12643d2.zip",
+        "platform": "windows/386",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-386-cgo-alpha-12643d2.zip"
+      },
+      {
+        "name": "clash.meta-windows-amd64-cgo-alpha-12643d2.zip",
+        "platform": "windows/amd64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-windows-amd64-cgo-alpha-12643d2.zip"
+      },
+      {
+        "name": "clash.meta-linux-arm64-alpha-12643d2.gz",
+        "platform": "linux/arm64",
+        "url": "https://github.com/MetaCubeX/Clash.Meta/releases/download/Prerelease-Alpha/clash.meta-linux-arm64-alpha-12643d2.gz"
       }
     ]
   },
